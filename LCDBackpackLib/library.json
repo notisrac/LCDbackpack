@@ -1,0 +1,14 @@
+{
+  "name": "LCDBackpackLib",
+  "frameworks": "Arduino",
+  "keywords": "LCD, HD44780",
+  "description": "LCD driver library for the LCDBackpack",
+  "url": "https://github.com/notisrac/LCDBackpack",
+  "authors": {
+    "name": "noti"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/notisrac/LCDBackpack"
+  }
+}

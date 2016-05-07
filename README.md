@@ -44,6 +44,10 @@ You can use a voltage regulator like the [LD1117](http://www.st.com/web/en/resou
 * SCK - Arduino D13
 * RCK - Arduino D10
 
+##Errata
+* Due to the fact, that the enable line of the display is tied to one of the shift register pins, this construction does not work with any of the standard libraries. You need to use the provided library to drive the display!
+* In the first version of the board layout the isolation of the ground fill was set to 0. This could have caused a short.
+
 ##Pictures
 Assembled:
 ![LCD backpack assembled](lcdbackpack_assembled.jpg "LCD backpack assembled")
