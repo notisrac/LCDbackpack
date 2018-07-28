@@ -57,3 +57,6 @@ Schematic:
 
 
 *Made with Cadsoft Eagle v6.5.0*
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-122950438-1/LCDbackpack)](https://github.com/igrigorik/ga-beacon)
